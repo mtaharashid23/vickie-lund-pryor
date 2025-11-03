@@ -354,7 +354,7 @@ html.lenis body {
 /* main-banner */
 .main-banner {
 	height: 1000px;
-	background: url("../images/main-banner-1.jpg") no-repeat center / cover fixed;
+	background: url("../images/main-banner-1.webp") no-repeat center / cover fixed;
 	overflow: unset;
 }
 
@@ -459,7 +459,7 @@ html.lenis body {
 /* review-section */
 .review-section,
 .article-section {
-	background: url("../images/main-banner-1.jpg") no-repeat center / cover fixed;
+	background: url("../images/main-banner-1.webp") no-repeat center / cover fixed;
 }
 
 .review-section {
@@ -557,7 +557,7 @@ html.lenis body {
 
 /* contact-section */
 .contact-section {
-	background: url("../images/main-banner-1.jpg") no-repeat center / cover fixed;
+	background: url("../images/main-banner-1.webp") no-repeat center / cover fixed;
 	padding: 6rem 0 10rem;
 }
 
@@ -711,7 +711,7 @@ html.lenis body {
 /* inner-pages */
 .inner-banner {
 	height: 650px;
-	background: url("../images/main-banner-1.jpg") no-repeat center / cover fixed;
+	background: url("../images/main-banner-1.webp") no-repeat center / cover fixed;
 }
 
 .inner-banner::before {
